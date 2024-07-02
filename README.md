@@ -32,7 +32,7 @@ I thrive in fast-paced environments and excel in delivering high-quality code. M
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib3719&show_icons=true&locale=en&layout=compact&theme=radical" alt="rakib3719" />
 </p>
 
-## 🛠️ স্কিলস
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
