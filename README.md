@@ -1,10 +1,12 @@
-
-
 <h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm Syed Rakib Hasan</h1>
 <h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3719" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/vcCHLZn/1.png" alt="banner" />
 </p>
 
 ## 🚀 About Me
@@ -47,7 +49,6 @@ I am a dedicated web developer with a deep passion for creating innovative, scal
 <p align="center">
   <a href="https://www.linkedin.com/in/srakib/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/msrh.koraibrakib" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-
 </p>
 
 ---
