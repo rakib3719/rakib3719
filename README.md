@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-I am a dedicated software developer with a deep passion for creating innovative, scalable, and user-friendly applications. My journey in software development is driven by:
+I am a dedicated web developer with a deep passion for creating innovative, scalable, and user-friendly web applications. My journey in web development is driven by:
 
-- **Passion**: I thrive on solving complex problems and creating elegant solutions.
-- **Expertise**: Skilled in building robust applications using modern technologies like React, Node.js, and MongoDB.
-- **Goal**: To continuously learn and grow as a full-stack developer, delivering impactful software solutions.
+- **Passion**: I thrive on crafting engaging digital experiences and solving complex challenges.
+- **Expertise**: Skilled in frontend technologies like React and Tailwind CSS, and backend technologies like Node.js and MongoDB.
+- **Goal**: To evolve into a versatile web developer, delivering impactful solutions across the full stack.
 
 ## 📊 GitHub Stats
 
@@ -42,4 +42,11 @@ I am a dedicated software developer with a deep passion for creating innovative,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srakib/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com
+  <a href="https://www.facebook.com/msrh.koraibrakib" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakib3719/rakib3719/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
