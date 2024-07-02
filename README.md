@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Syed Rakib Hasan</h1>
-<h3 align="center">A passionate Web Developer specializing in MERN stack and Tailwind CSS</h3>
+<h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm Syed Rakib Hasan</h1>
+<h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A passionate Web Developer specializing in MERN stack and Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3719" />
 </p>
 
 ## 🚀 Overview
@@ -21,15 +21,15 @@ I thrive in fast-paced environments and excel in delivering high-quality code. M
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib3719&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib3719&theme=radical" alt="rakib3719" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib3719&show_icons=true&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib3719&show_icons=true&theme=radical" alt="rakib3719" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib3719&show_icons=true&locale=en&layout=compact&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib3719&show_icons=true&locale=en&layout=compact&theme=radical" alt="rakib3719" />
 </p>
 
 ## 🛠️ স্কিলস
@@ -59,5 +59,5 @@ I thrive in fast-paced environments and excel in delivering high-quality code. M
 ---
 
 <p align="center">
-  <img src="https://github.com/rakib3719/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rakib3719/rakib3719/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
