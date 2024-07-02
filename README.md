@@ -1,22 +1,17 @@
 <h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm Syed Rakib Hasan</h1>
-<h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A passionate Web Developer specializing in MERN stack and Tailwind CSS</h3>
+<h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3719" />
 </p>
 
-## 🚀 Overview
+## 🚀 About Me
 
-I am a highly skilled Web Developer with a passion for creating modern and responsive web applications. My expertise includes:
+I am a dedicated software developer with a deep passion for creating innovative, scalable, and user-friendly applications. My journey in software development is driven by:
 
-- **Frontend**: React, Tailwind CSS, HTML, CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: Firebase, JWT Token
-- **State Management**: React Router, Tan Stack Query
-- **Networking**: Axios
-
-I thrive in fast-paced environments and excel in delivering high-quality code. My goal is to build scalable and maintainable applications that provide exceptional user experiences.
+- **Passion**: I thrive on solving complex problems and creating elegant solutions.
+- **Expertise**: Skilled in building robust applications using modern technologies like React, Node.js, and MongoDB.
+- **Goal**: To continuously learn and grow as a full-stack developer, delivering impactful software solutions.
 
 ## 📊 GitHub Stats
 
@@ -40,24 +35,11 @@ I thrive in fast-paced environments and excel in delivering high-quality code. M
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Tan_Stack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="Tan Stack Query" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srakib/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/msrh.koraibrakib" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="sd.rakib36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakib3719/rakib3719/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <a href="https://www.facebook.com
