@@ -1,3 +1,24 @@
+<p align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
+  <img src="https://via.placeholder.com/1200x300.png?text=Syed+Rakib+Hasan" alt="Banner" style="width: 100%; border-radius: 10px;"/>
+  <h2 style="color: #aa1936;">Web Developer</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/srakib/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.facebook.com/msrh.koraibrakib" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://twitter.com/yourusername" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+  </p>
+  <p style="opacity: 0.5;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/MERN-3D9970?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
+  </p>
+</p>
+
 <h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm Syed Rakib Hasan</h1>
 <h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
 
@@ -45,6 +66,7 @@ I am a dedicated web developer with a deep passion for creating innovative, scal
 <p align="center">
   <a href="https://www.linkedin.com/in/srakib/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/msrh.koraibrakib" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
