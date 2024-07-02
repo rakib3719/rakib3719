@@ -1,5 +1,4 @@
-<h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm Md Nazmul Islam</h1>
-<h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
+
 
 <p align="center">
   <img src="https://i.ibb.co/vcCHLZn/1.png" alt="banner" />
