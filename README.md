@@ -25,7 +25,7 @@ I thrive in fast-paced environments and excel in delivering high-quality code. M
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-rakib3719&show_icons=true&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib3719&show_icons=true&theme=radical" alt="your-github-username" />
 </p>
 
 <p align="center">
