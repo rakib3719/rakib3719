@@ -1,24 +1,4 @@
-<p align="center" style="position: relative;">
-  <img src="https://via.placeholder.com/1200x300.png" alt="Banner" style="width: 100%; border-radius: 10px;"/>
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #aa1936; font-size: 24px; font-weight: bold;">Syed Rakib Hasan</span>
-  <span style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); color: #f3f4f6; font-size: 18px;">Web Developer</span>
-  <span style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%);">
-    <a href="https://www.linkedin.com/in/srakib/" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/msrh.koraibrakib" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="https://twitter.com/yourusername" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </span>
-  <span style="position: absolute; bottom: 10%; left: 10%; opacity: 0.5;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/MERN-3D9970?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
-  </span>
-</p>
+
 
 <h1 align="center" style="background-color:#f3f4f6; padding: 10px; border-radius: 10px;">Hi 👋, I'm Syed Rakib Hasan</h1>
 <h3 align="center" style="color: #aa1936; background: linear-gradient(to right, #f3f4f6, #ffe5e5); padding: 10px; border-radius: 10px;">A Passionate Web Developer</h3>
