@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer specializing in MERN stack and Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=rakib3719&label=Profile%20views&color=0e75b6&style=flat" alt="rakib3719" />
 </p>
 
 ## 🚀 Overview
@@ -18,19 +18,11 @@ I am a highly skilled Web Developer with a passion for creating modern and respo
 
 I thrive in fast-paced environments and excel in delivering high-quality code. My goal is to build scalable and maintainable applications that provide exceptional user experiences.
 
-## 📊 GitHub Stats
+## 🌟 Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib3719&theme=radical" alt="your-github-username" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib3719&show_icons=true&theme=radical" alt="your-github-username" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib3719&show_icons=true&locale=en&layout=compact&theme=radical" alt="your-github-username" />
-</p>
+- 🌐 **Website Development**: Expert in building responsive and user-friendly websites.
+- 🛠️ **Efficient Workflows**: Proficient in using modern tools and frameworks for seamless development.
+- 🔒 **Secure Applications**: Focused on implementing robust authentication and authorization mechanisms.
 
 ## 🛠️ স্কিলস
 
