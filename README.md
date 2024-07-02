@@ -59,5 +59,5 @@ I thrive in fast-paced environments and excel in delivering high-quality code. M
 ---
 
 <p align="center">
-  <img src="https://github.com/rakib3719/rakib3719/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/rakib3719/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
